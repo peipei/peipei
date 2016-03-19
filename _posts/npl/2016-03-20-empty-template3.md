@@ -4,4 +4,4 @@ catogories: npl
 comments: true
 ---
 
-## test
+## Empty npl tutorial template
