@@ -2,7 +2,6 @@
 layout: frontpage
 ---
 
-## Welcome to my website
+## いらっしゃいませ！
 
-This is the place where I share my ideas on topics like [Paracraft](http://www.paracraft.cn) software design, artificial intelligence and education. 
-Feel free to send me emails or join our team. 
+大家好～兔子花花是目前在日本實習的研究生，開設這個部落格放些翻譯練習並分享生活 <3
