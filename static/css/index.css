@@ -247,7 +247,7 @@ footer .point{
 }
 
 .post img{
-	max-width: 100%;
+	max-width: 50%;
     vertical-align: middle;
 
 	-webkit-box-shadow: 0 0 5px 2px rgba(0,0,0,0.1);
