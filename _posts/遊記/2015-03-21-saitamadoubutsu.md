@@ -8,7 +8,7 @@ comments: true
 ---
 
 ### 基本資料
-* 景點名稱：[埼玉県こども動物自然公園](http://www.parks.or.jp/sczoo/index.html)（琦玉縣兒童動物自然公園）
+* 景點名稱：[埼玉県こども動物自然公園](http://www.parks.or.jp/sczoo/index.html)（埼玉縣兒童動物自然公園）
 * [交通方式](http://www.parks.or.jp/sczoo/traffic_guide/index.html)：自池袋駅搭乘東武東上線至高坂駅（近1hr，650日圓），於高坂駅轉搭公車至「こども動物自然公園」（5分鐘，190日圓）
 * 門票：全票510日圓、國中小以下學生210日圓
 * 開園時間：9:30~17:00 （休園日：[2015/04~2016/03](http://www.parks.or.jp/sczoo/zoonews/by_zoo/pdf/kyuuenbi2015_sczoo.pdf)、[2016/04~201703](http://www.parks.or.jp/sczoo/zoonews/by_zoo/pdf/kyuuenbi2016_sczoo.pdf)）
@@ -20,7 +20,7 @@ comments: true
 
 ![時間表]({{ site.url }}/assets/gate_board.JPG)
 
-一進門就會看到一個看板，這個動物園裡有很多活動（有些要額外收費但不貴），包括、騎馬體驗、擠牛乳體驗、動物解說、水豚足湯、餵食體驗……看板上會寫明今天各個活動的時間、地點、收費和參加方式，大家可以在這邊搭配著地圖先規劃好一天的路線～
+一進門就會看到一個看板，這個動物園裡有很多活動（有些要額外收費但不貴），包括騎馬體驗、擠牛乳體驗、動物解說、水豚足湯、餵食體驗……看板上會寫明今天各個活動的時間、地點、收費和參加方式，大家可以在這邊搭配著地圖先規劃好一天的路線～
 
 ![地圖]({{ site.url }}/assets/gate_map.JPG)
 
@@ -39,7 +39,7 @@ comments: true
 
 ![草尼馬]({{ site.url }}/assets/touch_2.JPG)
 
-草尼馬只隔個矮矮的木頭圍欄，本來想跟他自拍一下，沒想到被口水噴滿臉，超臭QQQQ
+草尼馬只隔個矮矮的圍欄，本來想跟他自拍一下，沒想到被口水噴滿臉，超臭QQQQ
 
 ### 水豚溫泉足湯體驗
 ![大水豚]({{ site.url }}/assets/capy_2.JPG)
@@ -48,7 +48,7 @@ comments: true
 
 ![足湯看板]({{ site.url }}/assets/capy_9.JPG)
 
-每日限定15名的足湯體驗，可以坐在水豚旁邊泡足湯 <3
+每日限定12名的足湯體驗，可以坐在水豚旁邊泡足湯 <3
 只要在開始之前到水豚廣場的這個牌子前排隊買票（500日圓）就可以了。
 
 ![票]({{ site.url }}/assets/capy_3.JPG)
