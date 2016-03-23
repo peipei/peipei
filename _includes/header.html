@@ -1,7 +1,7 @@
 <header>
 
 <!-- navbar -->
-  <nav class="navbar navbar-inverse">
+  <nav class="navbar navbar-inverse" id="toptitle">
   <div class="container">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
@@ -11,7 +11,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title }}</a>
+      <a class="navbar-brand" id="titleword" href="{{ site.baseurl }}/">{{ site.title }}</a>
       <p class="navbar-text"></p>
     </div>
     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -23,7 +23,7 @@
           {% else %}
           <li>
         {% endif %}
-        <a href="{{ site.baseurl }}/">Home</a></li>
+        <a id="home" href="{{ site.baseurl }}/">Home</a></li>
 
         {% for p in site.pages %}
           {% if p.title %}
