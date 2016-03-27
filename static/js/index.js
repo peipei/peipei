@@ -5,8 +5,18 @@ $(document).ready(function() {
 
     categoryDisplay();
     //generateContent();
+	imgRWD();
     backToTop();
 });
+
+/*根據視窗寬度調整圖片大小*/
+function imgRWD(){
+	if($(window).width()<800){
+		$('img').addClass('img_L');
+	}else{
+		$('img').addClass('img_S');
+	}
+}
 
 /**
  * load方法，页面的加载完成后触发
